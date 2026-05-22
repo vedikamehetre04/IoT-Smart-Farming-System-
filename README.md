@@ -1,6 +1,6 @@
 # 🌱 IoT Smart Farming System 💧
 
->The IoT Smart Farming System automates irrigation using real-time soil moisture data. It employs an ESP32 microcontroller, moisture sensors, an LDR sensor, and an OLED display to monitor conditions and control a water pump. The system integrates with Arduino IoT Cloud, enabling remote monitoring and manual control via a dashboard.
+>Automated irrigation using real-time soil moisture data — powered by ESP32 and Arduino IoT Cloud.
 >
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue) ![Cloud](https://img.shields.io/badge/cloud-Arduino%20IoT-teal) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
